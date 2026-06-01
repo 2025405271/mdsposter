@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{mdsposter}[2026-04-21 v0.3]
+\ProvidesClass{mdsposter}[2026-04-21 v0.4]
 
 \RequirePackage{ifthen}
 \RequirePackage{color}
