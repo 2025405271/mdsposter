@@ -48,6 +48,7 @@
 
 % なぜか中央にこない
 \renewcommand{\maketitle}{%
+\setlength{\fboxsep}{0pt}%
 \twocolumn[%
 \colorbox{My}{%
 \color{white}%
