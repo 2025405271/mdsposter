@@ -47,7 +47,7 @@
 \definecolor{My}{rgb}{0.54,0.19,0.88}
 
 % なぜか中央にこない
-\renewcommand{\maketitle}{%
+\renewcommand{\maketitle}{{%
 \setlength{\fboxsep}{0pt}%
 \twocolumn[%
 \colorbox{My}{%
@@ -57,4 +57,4 @@
 \begin{center}\Huge\@title\end{center}%
 \vspace{\baselineskip}%
 \begin{flushright}\Large\@author\end{flushright}%
-}}\vspace{\baselineskip}]}
+}}\vspace{\baselineskip}]}}
