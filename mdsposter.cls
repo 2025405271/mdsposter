@@ -46,7 +46,6 @@
 % 色を考える
 \definecolor{My}{rgb}{0.54,0.19,0.88}
 
-% なぜか中央にこない
 \renewcommand{\maketitle}{{%
 \setlength{\fboxsep}{0pt}%
 \twocolumn[%
